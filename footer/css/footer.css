@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.foot{
+background-color: rgba(233, 226, 226, 0.438);
+height: auto;
+}
+.unorder_list{
+list-style-type: none;
+color: gray;
+}
+.subscribe{
+    border: 1px solid black;
+    border-radius: 30px 30px;
+}
+.butt{
+    border-radius: 30px 30px;
+}
+
+#fb:hover{
+    transition:0.9s;
+    transform:translateY(-35%);
+}
+
+#twit:hover{
+transition:0.9s;
+transform:translateY(-35%);
+}
+#insta:hover{
+transition:0.9s;
+transform: translateY(-35%);
+}
+/* #email{
+max-width: max-content;
+
+} */
+.form_c{
+background-color:rgb(246, 249, 253) ;
+}
